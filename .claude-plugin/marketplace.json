@@ -1,0 +1,12 @@
+{
+  "name": "desktop-look-marketplace",
+  "description": "Albert Zhang's Claude Code mods",
+  "owner": { "name": "Albert Zhang" },
+  "plugins": [
+    {
+      "name": "desktop-look",
+      "source": "./",
+      "description": "Restyles the terminal to resemble the Claude desktop app"
+    }
+  ]
+}

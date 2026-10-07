@@ -1,0 +1,15 @@
+{
+  "name": "desktop-look",
+  "version": "0.2.0",
+  "description": "Restyles the terminal to resemble the Claude desktop app: welcome stats card, chat bubbles, bullet-free replies, compact tool rows and a Changes sidebar",
+  "author": { "name": "Albert Zhang" },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "name": {
+      "type": "string",
+      "title": "Your name",
+      "description": "Shown in the welcome greeting, e.g. What's up next, Sam?",
+      "default": ""
+    }
+  }
+}
