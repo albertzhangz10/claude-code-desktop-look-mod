@@ -1,6 +1,8 @@
-# desktop-look
+# Claude Mod
 
-A Claude Code mod that restyles the terminal to resemble the Claude desktop app: a welcome stats card, chat bubbles, bullet-free replies, compact tool rows and a Changes sidebar.
+Desktop look in terminal. A Claude Code mod that restyles the terminal to resemble the Claude desktop app: a welcome stats card, chat bubbles, bullet-free replies, compact tool rows and a Changes sidebar.
+
+The install id is `desktop-look`, since Claude Code reserves plugin names that start with `claude-`.
 
 Tested with Claude Code **2.1.288**. Mods need 2.1.287 or newer in the terminal, or 2.1.286 or newer in the Desktop app's Code tab. The render surfaces this mod uses are marked early access, so a newer build can change them without notice.
 
