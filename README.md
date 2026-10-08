@@ -9,7 +9,7 @@ Tested with Claude Code **2.1.288**. Mods need 2.1.287 or newer in the terminal,
 ## Install
 
 ```bash
-claude plugin marketplace add albertzhangz10/desktop-look
+claude plugin marketplace add albertzhangz10/claude-mod
 claude plugin install desktop-look@desktop-look-marketplace
 ```
 
