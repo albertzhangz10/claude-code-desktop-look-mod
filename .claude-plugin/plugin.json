@@ -14,5 +14,18 @@
       "description": "Shown in the welcome greeting, e.g. What's up next, Sam?",
       "default": ""
     }
-  }
+  },
+  "keywords": [
+    "claude-code",
+    "mod",
+    "theme",
+    "terminal",
+    "tui",
+    "desktop",
+    "ui",
+    "statusline",
+    "claude"
+  ],
+  "homepage": "https://github.com/albertzhangz10/claude-code-desktop-look-mod",
+  "repository": "https://github.com/albertzhangz10/claude-code-desktop-look-mod"
 }

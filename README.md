@@ -1,5 +1,7 @@
 # Claude Code Desktop Look Mod
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-mod-d97757) ![Version](https://img.shields.io/badge/version-0.2.2-87867f) ![Claude Code 2.1.287+](https://img.shields.io/badge/Claude%20Code-2.1.287%2B-3d3d3a)
+
 Desktop look in terminal. A Claude Code mod that restyles the terminal to resemble the Claude desktop app: a welcome stats card, chat bubbles, bullet-free replies, compact tool rows and a Changes sidebar.
 
 The install id is `desktop-look`, since Claude Code reserves plugin names that start with `claude-`.
@@ -82,3 +84,7 @@ claude plugin test .
 ```
 
 This needs an unwrapped `claude` on `PATH`. Some corporate installs wrap the binary and inject options ahead of the subcommand, which makes `plugin test` fail to parse.
+
+## Keywords
+
+Claude Code mod, Claude Code theme, Claude Code plugin, Claude desktop app look, terminal UI, TUI theme, chat bubbles, welcome screen, usage stats, Changes sidebar, Anthropic Claude, AI coding assistant customization
